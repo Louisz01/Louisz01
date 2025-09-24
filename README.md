@@ -3,7 +3,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JidnU0am5kZDgzcWx5OWczaDRnYmhjYno0MnYzZmxxcnpmc3Q5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUcnmocyRKkfSil9xd/giphy.gif" alt="header image" />
 </p>
 
-<h1 align="center">Natthanon Tongseew <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I'm Natthanon Tongseew <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
   <strong>an Information Technology student at the Faculty of Science, Maejo University in Thailand.</strong><br/>
