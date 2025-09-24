@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="ลิงก์รูป Banner ของคุณ" alt="header image" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreebackground%2Ffuturistic-banner-with-cyber-punk-aesthetic-3d-rendering_5588183.html&psig=AOvVaw3ecOAZRjrseT4flG_yhpDz&ust=1758799577431000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCjkJal8Y8DFQAAAAAdAAAAABAE" alt="header image" />
 </p>
 
 <h1 align="center">Hi, I’m Louis <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
