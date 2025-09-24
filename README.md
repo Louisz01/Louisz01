@@ -22,11 +22,11 @@
 ## 🛠️ Tech Stack & Tools 
 | Domain      | Primary                       | Comfortable          | Currently Exploring          |
 |------------|-------------------------------|--------------------|----------------------------|
-| Front-end  | HTML, CSS, JS                 | Node.js             | React, Next.js             |
+| Front-end  | HTML, CSS, JS                 | Node.js             | React,            |
 | Backend    | Spring MVC, Spring Boot        | Node.js             | Go, FastAPI                |
 | Databases  | MySQL                          | -                   | -                          |
 | Tools      | VS Code, Eclipse              | Postman             | Git                        |
-| ML / AI    | -                              | -                   | Python, PyTorch, scikit-learn |
+| ML / AI    | -                              | -                   | Python |
 
 
 
