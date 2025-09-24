@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreebackground%2Ffuturistic-banner-with-cyber-punk-aesthetic-3d-rendering_5588183.html&psig=AOvVaw3ecOAZRjrseT4flG_yhpDz&ust=1758799577431000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCjkJal8Y8DFQAAAAAdAAAAABAE" alt="header image" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ4cDltZ3NrYmoxenc4M3AxanU1Ymdta2s3ZXhyeGR4Yzd6NDFudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UT5C4hCvmlSzJ7QeQy/giphy.gif" alt="header image" />
 </p>
 
 <h1 align="center">Natthanon Tongseew <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
