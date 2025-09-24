@@ -20,12 +20,12 @@
 ---
 
 ## 🧰 Tech Stack & Tools
-| Domain | Primary | Comfortable | Currently Exploring |
-|--------|---------|-------------|-------------------|
-| Front-end | React · TypeScript | Next.js | SvelteKit |
-| Back-end | Node.js · Express | NestJS | Go |
-| Database | PostgreSQL | MongoDB | DuckDB |
-| DevOps | Docker | GitHub Actions | Kubernetes |
+| Domain      | Primary               | Comfortable       | Currently Exploring |
+|------------|---------------------|-----------------|-------------------|
+| Front-end  | React · TypeScript    | Next.js          | SvelteKit          |
+| Back-end   | Java · Spring Boot    | Node.js · Express | Go                 |
+| Database   | MySQL                 | PostgreSQL       | MongoDB            |
+| DevOps     | Git · GitHub          | Docker           | GitHub Actions     |
 
 ---
 
