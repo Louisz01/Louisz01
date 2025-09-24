@@ -6,7 +6,7 @@
 <h1 align="center">Natthanon Tongseew <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
-  <strong>Information Technology Student Faculty of Science, Maejo University</strong><br/>
+  <strong>an Information Technology student at the Faculty of Science, Maejo University in Thailand.</strong><br/>
 </p>
 
 ---
