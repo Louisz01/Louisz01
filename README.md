@@ -41,9 +41,17 @@
 
 ---
 
-## ✍🏻 Recent Blog / Talks
-- Sep 2025 • **Building a Laundry Service Hub** – Shared project insights on GitHub  
-- Aug 2025 • Published *“Getting Started with Go for Web Development”* on Medium  
+## ✍🏻 Recent Blog / Talks & Teaching Experience
+
+### Teaching Experience
+**Instructor – Web Design (Wix.com)**  
+*Chiang Mai Christian School*  
+- Taught students how to **design and build websites using Wix.com**, focusing on practical, hands-on learning.  
+- Guided students in creating **personal portfolios and school projects** using modern web design practices.  
+
+### Recent Blog / Talks
+- Sep 2025 • **Building a Laundry Service Hub** 
+
 
 ---
 
