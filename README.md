@@ -14,7 +14,7 @@
 ## 🚀 About Me
 - 🌱 I’m currently learning **Go & React**
 - 🛠 Daily driver stack: **Java, Go, MySQL, React**
-- 🎯 2025 Goal: **Web Developer **
+- 🎯 2025 Goal:  Web Developer 
 - 📫 Reach me: **natthanon.campz@gmail.com** |
 
 ---
