@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack & Tools 
 | Domain      | Primary                       | Comfortable          | Currently Exploring          |
 |------------|-------------------------------|--------------------|----------------------------|
-| Front-end  | HTML, CSS, JS                 | Node.js             | React,            |
+| Front-end  | HTML, CSS, JS                 | Node.js             | React           |
 | Backend    | Spring MVC, Spring Boot        | Node.js             | Go, FastAPI                |
 | Databases  | MySQL                          | -                   | -                          |
 | Tools      | VS Code, Eclipse              | Postman             | Git                        |
