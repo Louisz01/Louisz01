@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JidnU0am5kZDgzcWx5OWczaDRnYmhjYno0MnYzZmxxcnpmc3Q5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUcnmocyRKkfSil9xd/giphy.gif" alt="header image" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRvM3A0dHNqNG5xMHlnZjl2NnRjMXFjeno5Y2Fydmc0ZzE2eTBkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SuHm81d2dnG8MN0im1/giphy.gif" alt="header image" />
 </p>
 
 <h1 align="center">Hi, I'm Natthanon Tongseew <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
@@ -54,5 +54,5 @@
 
 ---
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRvM3A0dHNqNG5xMHlnZjl2NnRjMXFjeno5Y2Fydmc0ZzE2eTBkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SuHm81d2dnG8MN0im1/giphy.gif" alt="header image" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JidnU0am5kZDgzcWx5OWczaDRnYmhjYno0MnYzZmxxcnpmc3Q5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUcnmocyRKkfSil9xd/giphy.gif" alt="header image" />
 </p>
