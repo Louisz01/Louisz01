@@ -42,8 +42,8 @@
 ---
 
 ## ✍🏻 Recent Blog / Talks
-- May 2025 • **Observable Dashboards** at BangkokJS  
-- Apr 2025 • Published *“Scalable Monorepo Patterns”* on Medium
+- Sep 2025 • **Building a Laundry Service Hub** – Shared project insights on GitHub  
+- Aug 2025 • Published *“Getting Started with Go for Web Development”* on Medium  
 
 ---
 
