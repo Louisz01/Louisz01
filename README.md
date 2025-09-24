@@ -19,13 +19,17 @@
 
 ---
 
-## 🧰 Tech Stack & Tools
-| Domain      | Primary               | Comfortable       | Currently Exploring |
-|------------|---------------------|-----------------|-------------------|
-| Front-end  | React · TypeScript    | Next.js          | SvelteKit          |
-| Back-end   | Java · Spring Boot    | Node.js · Express | Go                 |
-| Database   | MySQL                 | PostgreSQL       | MongoDB            |
-| DevOps     | Git · GitHub          | Docker           | GitHub Actions     |
+## 🛠️ Tech Stack & Tools
+
+| Domain      | Primary                       | Comfortable          | Currently Exploring          |
+|------------|-------------------------------|-------------------|----------------------------|
+| Front-end  | HTML, CSS, JS, JSP            | Node.js             | React, Next.js             |
+| Mobile     | Java                           | Flutter             | Kotlin                     |
+| Backend    | Spring MVC, Spring Boot        | Node.js             | Go, FastAPI                |
+| Databases  | MySQL                          | Firebase            | PostgreSQL                 |
+| Tools      | VS Code, Android Studio, Eclipse | Postman            | IntelliJ IDEA, Git         |
+| ML / AI    | -                              | -                   | Python, PyTorch, scikit-learn |
+
 
 ---
 
