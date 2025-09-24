@@ -12,10 +12,10 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Go & React**  
-- 🛠 Daily driver stack: **Java, Go, MySQL, React**  
-- 🎯 2025 Goal: **Build a personal SaaS project**  
-- 📫 Reach me: **email@example.com** | [LinkedIn](ลิงก์) | [X/Twitter](ลิงก์)
+- 🌱 I’m currently learning **Go & React**
+- 🛠 Daily driver stack: **Java, Go, MySQL, React**
+- 🎯 2025 Goal: **Web Developer **
+- 📫 Reach me: **natthanon.campz@gmail.com** |
 
 ---
 
