@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ4cDltZ3NrYmoxenc4M3AxanU1Ymdta2s3ZXhyeGR4Yzd6NDFudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UT5C4hCvmlSzJ7QeQy/giphy.gif" alt="header image" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JidnU0am5kZDgzcWx5OWczaDRnYmhjYno0MnYzZmxxcnpmc3Q5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUcnmocyRKkfSil9xd/giphy.gif" alt="header image" />
 </p>
 
 <h1 align="center">Natthanon Tongseew <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
