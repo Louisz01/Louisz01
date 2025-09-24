@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" height="30"/>
 - 🌱 I’m currently learning **Go & React**
 - 🛠 Daily driver stack: **Java, Go, MySQL, React**
 - 🎯 2025 Goal:  Web Developer 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" height="30"/>
 | Domain      | Primary                       | Comfortable          | Currently Exploring          |
 |------------|-------------------------------|--------------------|----------------------------|
 | Front-end  | HTML, CSS, JS                 | Node.js             | React, Next.js             |
@@ -32,7 +32,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" height="30"/>
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
 | Laundry Service Hub | HTML, CSS, JS, Java, Spring MVC, MySQL | Centralized platform for searching, requesting, and managing laundry services; User-friendly interfaces; Booking, order tracking, and payment functionalities | [Repo](ลิงก์) |
@@ -41,7 +41,7 @@
 
 ---
 
-## ✍🏻 Recent Blog / Talks & Teaching Experience
+## ✍🏻 Recent Blog / Talks & Teaching Experience <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" height="30"/>
 
 ### Teaching Experience
 **Instructor – Web Design (Wix.com)**  
