@@ -20,15 +20,14 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
-
 | Domain      | Primary                       | Comfortable          | Currently Exploring          |
-|------------|-------------------------------|-------------------|----------------------------|
-| Front-end  | HTML, CSS, JS, JSP            | Node.js             | React, Next.js             |
-| Mobile     | Java                           | Flutter             | Kotlin                     |
+|------------|-------------------------------|--------------------|----------------------------|
+| Front-end  | HTML, CSS, JS                 | Node.js             | React, Next.js             |
 | Backend    | Spring MVC, Spring Boot        | Node.js             | Go, FastAPI                |
-| Databases  | MySQL                          | Firebase            | PostgreSQL                 |
-| Tools      | VS Code, Android Studio, Eclipse | Postman            | IntelliJ IDEA, Git         |
+| Databases  | MySQL                          | -                   | -                          |
+| Tools      | VS Code, Eclipse              | Postman             | Git                        |
 | ML / AI    | -                              | -                   | Python, PyTorch, scikit-learn |
+
 
 
 ---
@@ -36,8 +35,9 @@
 ## 📌 Featured Projects
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| Project A | React · Node · PostgreSQL | Real-time dashboard | [Repo](ลิงก์) · [Live](ลิงก์) |
-| Project B | Python · FastAPI | AWS Lambda deployment | [Repo](ลิงก์) |
+| Laundry Service Hub | HTML, CSS, JS, Java, Spring MVC, MySQL | Centralized platform for searching, requesting, and managing laundry services; User-friendly interfaces; Booking, order tracking, and payment functionalities | [Repo](ลิงก์) |
+
+
 
 ---
 
