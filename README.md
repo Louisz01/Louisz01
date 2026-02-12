@@ -35,7 +35,8 @@
 ## 📌 Featured Projects 
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| Laundry Service Hub | HTML, CSS, JS, Java, Spring MVC, MySQL | Centralized platform for searching, requesting, and managing laundry services; User-friendly interfaces; Booking, order tracking, and payment functionalities | [Repo](ลิงก์) |
+| Laundry Service Hub | HTML, CSS, JS, Java, Spring MVC, MySQL | Centralized platform for searching, requesting, and managing laundry services; User-friendly interfaces; Booking, order tracking, and payment functionalities | [Repo](https://github.com/Louisz01/laundry-service-hub)
+ |
 
 
 
